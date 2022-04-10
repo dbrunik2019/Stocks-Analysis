@@ -17,7 +17,10 @@ Based on these imagines, you can see that the 2017 year had more positive return
 
 
 ###execution times
+
 ![vba_CHALLENGE_2017](https://user-images.githubusercontent.com/100965117/162638970-32252c50-4317-4313-b2f1-c6fed0454c44.PNG)
+
 ![VBA_CHALLENGE_2018](https://user-images.githubusercontent.com/100965117/162638973-b31a5456-de96-42a7-a9b5-3c95ce42cfc9.PNG)
+
 2018 was a faster code time. 
 
