@@ -24,3 +24,5 @@ Based on these imagines, you can see that the 2017 year had more positive return
 
 2018 was a faster code time. 
 
+##SUMMARY 
+Refactoring our code makes it much easier to read and understand for the user and any future users. it also makes the code run faster. this can lead to easier improvements in the future if the data gets bigger or more complex. Some of the cons are that refactoring can be complex and time consuming and can have little marginal beneftis in terms of time savings, especially if the code is going to do the same thing in a slightly faster manner for hours and hours of cleaning. It is an easy fix for this project, but refactoring in larger projects could become a very tedious and needless task. There is a very fine balance between making something work and having it be clean and being tedious and meticulous about code. 
